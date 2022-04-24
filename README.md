@@ -10,4 +10,4 @@ git clone https://github.com/al1oncik/SimpleCalculatorWithPython.git
 
 cd SimpleCalculatorWithPython
 
-python3 main.py
+python3 main.py 
